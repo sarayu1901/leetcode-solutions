@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarayu1901/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/sarayu1901/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1572-matrix-diagonal-sum](https://github.com/sarayu1901/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
@@ -25,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarayu1901/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/sarayu1901/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sarayu1901/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
